@@ -1,0 +1,23 @@
+import torch
+from your_model_file import EmotionCNN  # replace with the file where EmotionCNN is defined
+
+# Initialize model
+model = EmotionCNN()
+
+# Load trained weights
+model.load_state_dict(torch.load("your_model.pth"))
+model.eval()
+
+# Dummy input (FER-2013 images are grayscale 48x48)
+dummy_input = torch.randn(1, 1, 48, 48)  
+
+# Export to ONNX
+torch.onnx.export(
+    model, 
+    dummy_input, 
+    "emotion_cnn.onnx",
+    input_names=['input'], 
+    output_names=['output'],
+    opset_version=11
+)
+print("ONNX model exported: emotion_cnn.onnx")

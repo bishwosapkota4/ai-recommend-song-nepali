@@ -1,0 +1,106 @@
+id,artist,song_title,genre,mood,lyrics,audio_features,gender,danceability_tag
+1,1974 A.D,Chhudaina Timro Mayale,Pop,Romantic,songdata\1974 A.D\output\Chhudaina Timro Mayale\Chhudaina Timro Mayale_segments.csv,songdata\1974 A.D\output\Chhudaina Timro Mayale,Band,Medium
+2,1974 A.D,Chudaina,Pop,Romantic,songdata\1974 A.D\output\Chundaina\Chundaina_segments.csv,songdata\1974 A.D\output\Chundaina,Band,Medium
+3,1974 A.D,Gurans Fulyo,Rock,Happy,songdata\1974 A.D\output\Gurans Fulyo\Gurans Fulyo_segments.csv,songdata\1974 A.D\output\Gurans Fulyo,Band,High
+4,1974 A.D,Pahilo Junima,Adhunik,Happy,songdata\1974 A.D\output\Pahilo Junima\Pahilo Junima_segments.csv,songdata\1974 A.D\output\Pahilo Junima,Band,Medium
+5,1974 A.D,Parelima,Folk,Happy,songdata\1974 A.D\output\Parelima\Parelima_segments.csv,songdata\1974 A.D\output\Parelima,Male,High
+6,1974 A.D,Yo Mann Ta Mero Nepali Ho,Rock,Happy,songdata\1974 A.D\output\Yo Mann Ta Mero Nepali Ho\Yo Mann Ta Mero Nepali Ho_segments.csv,songdata\1974 A.D\output\Yo Mann Ta Mero Nepali Ho,Male,High
+7,Adrian Pradhan,Hindda Hinddai,Rock,Sad,songdata\Adrian Pradhan\output\Hindda Hinddai\Hindda Hinddai_segments.csv,songdata\Adrian Pradhan\output\Hindda Hinddai,Band,Low
+8,Akash Khadka,Timi Bhayera,Adhunik,Romantic,songdata\Akash Khadka\output\Timi Bhayera\Timi Bhayera_segments.csv,songdata\Akash Khadka\output\Timi Bhayera,Band,Medium
+9,Albatross,Abhimaan,Rock,Reflective,songdata\Albatross\output\Abhimaan\Abhimaan_segments.csv,songdata\Albatross\output\Abhimaan,Band,Medium
+10,Albatross,Bachau,Rock,Sad,songdata\Albatross\output\Bachau\Bachau_segments.csv,songdata\Albatross\output\Bachau,Band,Low
+11,Albatross,Khaseka Tara,Rock,Reflective,songdata\Albatross\output\Khaseka Tara\Khaseka Tara_segments.csv,songdata\Albatross\output\Khaseka Tara,Male,Medium
+12,Albatross,Timi Bhane,Rock,Romantic,songdata\Albatross\output\Timi Bhane\Timi Bhane_segments.csv,songdata\Albatross\output\Timi Bhane,Female,Medium
+13,Amit Gurung-nepathya,Resham,Adhunik,Romantic,songdata\Amrit Gurung-nepathya\output\Resham\Resham_segments.csv,songdata\Amrit Gurung-nepathya\output\Resham,Mixed,Medium
+14,Anju Panta,Ghin Ghin Madal(Panche Baja),Folk,Festive,songdata\Anju Panta\output\Ghin Ghin Madal (Panche Baja)\Ghin Ghin Madal (Panche Baja)_segments.csv,songdata\Anju Panta\output\Ghin Ghin Madal (Panche Baja),Female,High
+15,Anju Panta,Ma Yesto Geet Gaunchhu-Duet,Folk,Happy,songdata\Anju Panta\output\Ma Yesto Geet Gaunchhu - Duet\Ma Yesto Geet Gaunchhu - Duet_segments.csv,songdata\Anju Panta\output\Ma Yesto Geet Gaunchhu - Duet,Female,High
+16,Astha Tamang-Maskey,Harek Saas Sita,Folk,Reflective,songdata\Astha Tamang-Maskey\output\Harek Saas Sita\Harek Saas Sita_segments.csv,songdata\Astha Tamang-Maskey\output\Harek Saas Sita,Female,Medium
+17,Astha Tamang-Maskey,Khaali,Rock,Sad,songdata\Astha Tamang-Maskey\output\Khaali\Khaali_segments.csv,songdata\Astha Tamang-Maskey\output\Khaali,Female,Low
+18,Astha Tamang-Maskey,Khula Aakash,Pop,Reflective,songdata\Astha Tamang-Maskey\output\Khula Aakash\Khula Aakash_segments.csv,songdata\Astha Tamang-Maskey\output\Khula Aakash,Female,Medium
+19,Astha Tamang-Maskey,Muskuraye,Pop,Happy,songdata\Astha Tamang-Maskey\output\Muskuraye\Muskuraye_segments.csv,songdata\Astha Tamang-Maskey\output\Muskuraye,Female,High
+20,Astha Tamang-Maskey,Sa Re Ga Ma Pa,Pop,Happy,songdata\Astha Tamang-Maskey\output\Sa Re Ga Ma Pa\Sa Re Ga Ma Pa_segments.csv,songdata\Astha Tamang-Maskey\output\Sa Re Ga Ma Pa,Male,High
+21,Astha Tamang-Maskey,Sabai Thikai Huncha,Pop,Happy,songdata\Astha Tamang-Maskey\output\Sabai Thikai Huncha\Sabai Thikai Huncha_segments.csv,songdata\Astha Tamang-Maskey\output\Sabai Thikai Huncha,Male,High
+22,Bhakta Raj Acharya,Tana Mann Bachanle,Classical,Reflective,songdata\Bhakta Raj Acharya\output\Tana Mann Bachanle\Tana Mann Bachanle_segments.csv,songdata\Bhakta Raj Acharya\output\Tana Mann Bachanle,Male,Low
+23,Bipul Chettri,Aashish,Folk,Reflective,songdata\Bipul Chettri\output\Aashish\Aashish_segments.csv,songdata\Bipul Chettri\output\Aashish,Male,Medium
+24,Bipul Chettri,Asaar,Folk,Reflective,songdata\Bipul Chettri\output\Asaar\Asaar_segments.csv,songdata\Bipul Chettri\output\Asaar,Male,Medium
+25,Bipul Chettri,Deorali Darah,Folk,Reflective,songdata\Bipul Chettri\output\Deorali Darah\Deorali Darah_segments.csv,songdata\Bipul Chettri\output\Deorali Darah,Male,Medium
+26,Bipul Chettri,Junkeri,Folk,Happy,songdata\Bipul Chettri\output\Junkeri\Junkeri_segments.csv,songdata\Bipul Chettri\output\Junkeri,Male,High
+27,Bipul Chettri,Neela Akash,Folk,Reflective,songdata\Bipul Chettri\output\Neela Akash\Neela Akash_segments.csv,songdata\Bipul Chettri\output\Neela Akash,Male,Medium
+28,Bipul Chettri,Ram Sailee-Ode To My Father,Bhajan,Reflective,songdata\Bipul Chettri\output\Ram Sailee - Ode To My Father\Ram Sailee - Ode To My Father_segments.csv,songdata\Bipul Chettri\output\Ram Sailee - Ode To My Father,Male,Low
+29,Bipul Chettri,WildFire(Dadhelo),Rock,Reflective,songdata\Bipul Chettri\output\Wildfire (Dadhelo)\Wildfire (Dadhelo)_segments.csv,songdata\Bipul Chettri\output\Wildfire (Dadhelo),Male,Medium
+30,Deepak Bajracharya,Man Magan,Classical,Reflective,songdata\Deepak Bajracharya\output\Man Magan\Man Magan_segments.csv,songdata\Deepak Bajracharya\output\Man Magan,Male,High
+31,Deepak Bajracharya,Wora Para,Pop,Happy,songdata\Deepak Bajracharya\output\Wora Para\Wora Para_segments.csv,songdata\Deepak Bajracharya\output\Wora Para,Male,High
+32,Deepak Jangam,Gajalu Ti Thula Thula,Folk,Happy,songdata\Deepak Jangam\output\Gajalu Ti Thula Thula\Gajalu Ti Thula Thula_segments.csv,songdata\Deepak Jangam\output\Gajalu Ti Thula Thula,Male,High
+33,Deepak Jangam,Timilai Ma Ke Bhanu,Adhunik,Romantic,songdata\Deepak Jangam\output\Timilai Ma Ke Bhanu\Timilai Ma Ke Bhanu_segments.csv,songdata\Deepak Jangam\output\Timilai Ma Ke Bhanu,Male,Medium
+34,Gopal Yonjan,Baneko Chha Paharale,Classical,Reflective,songdata\Gopal Yonjan\output\Baneko Chha Paharale\Baneko Chha Paharale_segments.csv,songdata\Gopal Yonjan\output\Baneko Chha Paharale,Male,Low
+35,Gopal Yonjan,Bhok Lagyo,Classical,Reflective,songdata\Gopal Yonjan\output\Bhok Lagyo\Bhok Lagyo_segments.csv,songdata\Gopal Yonjan\output\Bhok Lagyo,Male,Low
+36,Gopal Yonjan,Ma Kasari Bhanu,Classical,Sad,songdata\Gopal Yonjan\output\Ma Kasari Bhanu\Ma Kasari Bhanu_segments.csv,songdata\Gopal Yonjan\output\Ma Kasari Bhanu,Male,Low
+37,Gopal Yonjan,Mero Topi,Folk,Happy,songdata\Gopal Yonjan\output\Mero Topi\Mero Topi_segments.csv,songdata\Gopal Yonjan\output\Mero Topi,Female,High
+38,Gopal Yonjan,Nepali Nepalko,Classical,Patriotic,songdata\Gopal Yonjan\output\Nepali Nepalko\Nepali Nepalko_segments.csv,songdata\Gopal Yonjan\output\Nepali Nepalko,Male,Medium
+39,Gyanu Rana,Chyangba Hai Chyangba,Folk,Festive,songdata\Gyanu Rana\output\Chyangba Hai Chyangba\Chyangba Hai Chyangba_segments.csv,songdata\Gyanu Rana\output\Chyangba Hai Chyangba,Band,High
+40,Harish Mathema,Ma Bhakta Hu Yo Desh,Bhajan,Patriotic,songdata\Harish Mathema\output\Ma Bhakta Hu Yo Desh\Ma Bhakta Hu Yo Desh_segments.csv,songdata\Harish Mathema\output\Ma Bhakta Hu Yo Desh,Male,Low
+41,Karma Band,Kaha Hola Ghar,Rock,Reflective,songdata\Karma Band\output\Kaha Hola Ghar\Kaha Hola Ghar_segments.csv,songdata\Karma Band\output\Kaha Hola Ghar,Male,Medium
+42,Kumar Basnet,Dekhe Pachhi,Adhunik,Romantic,songdata\Kumar Basnet\output\Dekhe Pachhi\Dekhe Pachhi_segments.csv,songdata\Kumar Basnet\output\Dekhe Pachhi,Male,Medium
+43,Manoj Kumar KC,Harsha Ko Geet,Adhunik,Happy,songdata\Manoj Kumar KC\output\Harsha Ko Geet\Harsha Ko Geet_segments.csv,songdata\Manoj Kumar KC\output\Harsha Ko Geet,Male,Medium
+44,Nabin K Bhattarai,Aankhama,Pop,Romantic,songdata\Nabin K Bhattarai\output\Aankhama\Aankhama_segments.csv,songdata\Nabin K Bhattarai\output\Aankhama,Male,Medium
+45,Nabin K Bhattarai,Raat Bityo,Classical,Sad,songdata\Nabin K Bhattarai\output\Raat Bityo\Raat Bityo_segments.csv,songdata\Nabin K Bhattarai\output\Raat Bityo,Male,Low
+46,Nabin K Bhattarai,Sanjha Pakha,Classical,Reflective,songdata\Nabin K Bhattarai\output\Sanjha Pakha\Sanjha Pakha_segments.csv,songdata\Nabin K Bhattarai\output\Sanjha Pakha,Male,Low
+47,Nabin K Bhattarai,Timile Herda,Pop,Romantic,songdata\Nabin K Bhattarai\output\Timile Herda\Timile Herda_segments.csv,songdata\Nabin K Bhattarai\output\Timile Herda,Male,Medium
+48,Nabin K Bhattarai,Yaad Sanchi Samjhana,Pop,Romantic,songdata\Nabin K Bhattarai\output\Yaad Sanchi-Samjhana\Yaad Sanchi-Samjhana_segments.csv,songdata\Nabin K Bhattarai\output\Yaad Sanchi-Samjhana,Mixed,Medium
+49,Narayan Gopal,Yo Samjhine Maan Chha,Adhunik,Reflective,songdata\Narayan Gopal\output\Yo Samjhine Maan Chha\Yo Samjhine Maan Chha_segments.csv,songdata\Narayan Gopal\output\Yo Samjhine Maan Chha,Mixed,Low
+50,Natikaji-Taradevi,Aanshu Ra Suskera Ka,Classical,Sad,songdata\Natikaji- Taradevi\output\Aanshu Ra Suskera Ka\Aanshu Ra Suskera Ka_segments.csv,songdata\Natikaji- Taradevi\output\Aanshu Ra Suskera Ka,Mixed,Low
+51,Natikaji-Taradevi,Dharti Ko Chhati,Classical,Patriotic,songdata\Natikaji- Taradevi\output\Dharti Ko Chhati\Dharti Ko Chhati_segments.csv,songdata\Natikaji- Taradevi\output\Dharti Ko Chhati,Mixed,Medium
+52,Natikaji-Taradevi,Ghamma Pani Maya,Classical,Romantic,songdata\Natikaji- Taradevi\output\Ghamma Pani Maya\Ghamma Pani Maya_segments.csv,songdata\Natikaji- Taradevi\output\Ghamma Pani Maya,Mixed,Medium
+53,Natikaji-Taradevi,Him Shrinkhalama,Patriotic,Patriotic,songdata\Natikaji- Taradevi\output\Him Shrinkhalama\Him Shrinkhalama_segments.csv,songdata\Natikaji- Taradevi\output\Him Shrinkhalama,Mixed,Medium
+54,Natikaji-Taradevi,Nepali Hami,Patriotic,Happy,songdata\Natikaji- Taradevi\output\Nepali Hami\Nepali Hami_segments.csv,songdata\Natikaji- Taradevi\output\Nepali Hami,Mixed,High
+55,Natikaji-Taradevi,Sunsan Prakirti Ko,Classical,Reflective,songdata\Natikaji- Taradevi\output\Sunsan Prakirti Ko\Sunsan Prakirti Ko_segments.csv,songdata\Natikaji- Taradevi\output\Sunsan Prakirti Ko,Mixed,Low
+56,Natikaji-Taradevi,Timile Diyeka,Classical,Romantic,songdata\Natikaji- Taradevi\output\Timile Diyeka\Timile Diyeka_segments.csv,songdata\Natikaji- Taradevi\output\Timile Diyeka,Mixed,Medium
+57,Natikaji-Taradevi,Timile Jatinai Maya,Classical,Romantic,songdata\Natikaji- Taradevi\output\Timile Jatinai Maya\Timile Jatinai Maya_segments.csv,songdata\Natikaji- Taradevi\output\Timile Jatinai Maya,Male,Medium
+58,Natikaji-Taradevi,Yo Chhoto Jeevan Ma,Classical,Reflective,songdata\Natikaji- Taradevi\output\Yo Chhoto Jeevan Ma\Yo Chhoto Jeevan Ma_segments.csv,songdata\Natikaji- Taradevi\output\Yo Chhoto Jeevan Ma,Male,Low
+59,Neetesh Jung Kumar,Hamro Nepalma,Patriotic,Patriotic,songdata\Neetesh Jung Kunwar\output\Hamro Nepalma\Hamro Nepalma_segments.csv,songdata\Neetesh Jung Kunwar\output\Hamro Nepalma,Male,Medium
+60,Neetesh Jung Kumar,Hitaiko Maya,Adhunik,Romantic,songdata\Neetesh Jung Kunwar\output\Hitaiko Maya\Hitaiko Maya_segments.csv,songdata\Neetesh Jung Kunwar\output\Hitaiko Maya,Male,Medium
+61,Neetesh Jung Kumar,Kholai Khola,Folk,Happy,songdata\Neetesh Jung Kunwar\output\Kholai Khola\Kholai Khola_segments.csv,songdata\Neetesh Jung Kunwar\output\Kholai Khola,Male,High
+62,Neetesh Jung Kumar,Saajha Ma Aunu (Maya ko Chino),Folk,Romantic,songdata\Neetesh Jung Kunwar\output\Saajha Ma Aunu (Maya ko Chino)\Saajha Ma Aunu (Maya ko Chino)_segments.csv,songdata\Neetesh Jung Kunwar\output\Saajha Ma Aunu (Maya ko Chino),Male,High
+63,Phatteman,Yesto Pani Hundo Raichha,Classical,Reflective,songdata\Phatteman\output\Yesto Pani Hundo Raichha\Yesto Pani Hundo Raichha_segments.csv,songdata\Phatteman\output\Yesto Pani Hundo Raichha,Female,Low
+64,Prem Dhoj Pradhan,Lekhideu Timro Nam,Classical,Romantic,songdata\Prem Dhoj Pradhan\output\Lekhideu Timro Nam\Lekhideu Timro Nam_segments.csv,songdata\Prem Dhoj Pradhan\output\Lekhideu Timro Nam,Female,Medium
+65,Rachana Dahal,Aagya - Official,Hip-Hop,Reflective,songdata\Rachana Dahal\output\Aagya - Official\Aagya - Official_segments.csv,songdata\Rachana Dahal\output\Aagya - Official,Female,High
+66,Rachana Dahal,Bhumari,Hip-Hop,Reflective,songdata\Rachana Dahal\output\Bhumari\Bhumari_segments.csv,songdata\Rachana Dahal\output\Bhumari,Female,High
+67,Rachana Dahal,Daagbatti,Hip-Hop,Reflective,songdata\Rachana Dahal\output\Daagbatti\Daagbatti_segments.csv,songdata\Rachana Dahal\output\Daagbatti,Female,Medium
+68,Rachana Dahal,Hey Bhagwan,Hip-Hop,Reflective,songdata\Rachana Dahal\output\Hey Bhagwan\Hey Bhagwan_segments.csv,songdata\Rachana Dahal\output\Hey Bhagwan,Male,High
+69,Rachana Dahal,Soch,Hip-Hop,Romantic,songdata\Rachana Dahal\output\Soch\Soch_segments.csv,songdata\Rachana Dahal\output\Soch,Male,Medium
+70,Rajesh Payal Rai,Sagarsari Chokho Maya,Pop,Romantic,songdata\Rajesh Payal Rai\output\Sagarsari Chokho Maya\Sagarsari Chokho Maya_segments.csv,songdata\Rajesh Payal Rai\output\Sagarsari Chokho Maya,Male,Medium
+71,Raju Lama,Timilai Dekhera,Pop,Sad,songdata\Raju Lama\output\Timilai Dekhera\Timilai Dekhera_segments.csv,songdata\Raju Lama\output\Timilai Dekhera,Male,Medium
+72,Raju Singh,Bigrau Jasto Lagchha,Pop,Sad,songdata\Raju Singh\output\Bigrau Jasto Lagchha\Bigrau Jasto Lagchha_segments.csv,songdata\Raju Singh\output\Bigrau Jasto Lagchha,Male,Low
+73,Rohit John Chettri,Bistarai,Pop,Sad,songdata\Rohit John Chettri\output\Bistarai\Bistarai_segments.csv,songdata\Rohit John Chettri\output\Bistarai,Male,Low
+74,Rohit John Chettri,Pani Paryo,Pop,Sad,songdata\Rohit John Chettri\output\Pani Paryo\Pani Paryo_segments.csv,songdata\Rohit John Chettri\output\Pani Paryo,Male,Low
+75,Rohit John Chettri,Timra Dui Aankhama,Pop,Romantic,songdata\Rohit John Chettri\output\Timra Dui Aankhama\Timra Dui Aankhama_segments.csv,songdata\Rohit John Chettri\output\Timra Dui Aankhama,Male,Medium
+76,Sabin Rai,Akorinchhu,Pop,Romantic,songdata\Sabin Rai\output\Akorinchhu\Akorinchhu_segments.csv,songdata\Sabin Rai\output\Akorinchhu,Male,Medium
+77,Sabin Rai,Daya Baya,Pop,Reflective,songdata\Sabin Rai\output\Daya Baya\Daya Baya_segments.csv,songdata\Sabin Rai\output\Daya Baya,Male,Medium
+78,Sabin Rai,Kahan Dekhi Kahan Samma,Pop,Reflective,songdata\Sabin Rai\output\Kahan Dekhi Kahan Samma\Kahan Dekhi Kahan Samma_segments.csv,songdata\Sabin Rai\output\Kahan Dekhi Kahan Samma,Male,Medium
+79,Sabin Rai,Malai Angali Deu,Pop,Romantic,songdata\Sabin Rai\output\Malai Angali Deu\Malai Angali Deu_segments.csv,songdata\Sabin Rai\output\Malai Angali Deu,Male,Medium
+80,Sabin Rai_The Pharaoh,Paisa,Hip-Hop,Reflective,songdata\Sabin Rai _ The Pharaoh\output\Paisa\Paisa_segments.csv,songdata\Sabin Rai _ The Pharaoh\output\Paisa,Band,High
+81,Sabin Rai_The Pharaoh,Samarpan,Bhajan,Reflective,songdata\Sabin Rai _ The Pharaoh\output\Samarpan\Samarpan_segments.csv,songdata\Sabin Rai _ The Pharaoh\output\Samarpan,Band,Low
+82,Sabin Rai_The Pharaoh,Samjhanchu,Adhunik,Reflective,songdata\Sabin Rai _ The Pharaoh\output\Samjhanchu\Samjhanchu_segments.csv,songdata\Sabin Rai _ The Pharaoh\output\Samjhanchu,Band,Medium
+83,Samir Shrestha,Bujhideu,Pop,Reflective,songdata\Samir Shrestha\output\Bujhideu\Bujhideu_segments.csv,songdata\Samir Shrestha\output\Bujhideu,Male,Medium
+84,Samir Shrestha,Chaar Dewar,Pop,Sad,songdata\Samir Shrestha\output\Chaar Dewar\Chaar Dewar_segments.csv,songdata\Samir Shrestha\output\Chaar Dewar,Male,Low
+85,Samir Shrestha,Hera Na,Pop,Happy,songdata\Samir Shrestha\output\Hera Na\Hera Na_segments.csv,songdata\Samir Shrestha\output\Hera Na,Male,High
+86,Samir Shrestha,Thamana Haat,Pop,Romantic,songdata\Samir Shrestha\output\Thamana Haat\Thamana Haat_segments.csv,songdata\Samir Shrestha\output\Thamana Haat,Male,Medium
+87,Sanjay Shrestha,Maya Meri Maya,Pop,Romantic,songdata\Sanjay Shrestha\output\Maya Meri Maya\Maya Meri Maya_segments.csv,songdata\Sanjay Shrestha\output\Maya Meri Maya,Male,Medium
+88,SD Yogi,Suna Suna Sundari (From Nango Gaun),Folk,Happy,songdata\SD Yogi\output\Suna Suna Sundari (From Nango Gaun)\Suna Suna Sundari (From Nango Gaun)_segments.csv,songdata\SD Yogi\output\Suna Suna Sundari (From Nango Gaun),Male,High
+89,Shiva Pariyar,Aansu Ko Artha,Adhunik,Reflective,songdata\Shiva Pariyar\output\Aansu Ko Artha\Aansu Ko Artha_segments.csv,songdata\Shiva Pariyar\output\Aansu Ko Artha,Male,Low
+90,Shiva Pariyar,Fewa Talma Saili,Rock,Happy,songdata\Shiva Pariyar\output\Fewa Talma Saili\Fewa Talma Saili_segments.csv,songdata\Shiva Pariyar\output\Fewa Talma Saili,Male,High
+91,Shiva Pariyar,Fulai Fula Dinchhau ki - Remake Version,Adhunik,Romantic,songdata\Shiva Pariyar\output\Fulai Fula Dinchhau ki - Remake Version\Fulai Fula Dinchhau ki - Remake Version_segments.csv,songdata\Shiva Pariyar\output\Fulai Fula Dinchhau ki - Remake Version,Male,Medium
+92,Shiva Pariyar,Mangali,Adhunik,Happy,songdata\Shiva Pariyar\output\Mangali\Mangali_segments.csv,songdata\Shiva Pariyar\output\Mangali,Male,High
+93,Shiva Pariyar,Nabheti Nabheti,Adhunik,Romantic,songdata\Shiva Pariyar\output\Nabheti Nabheti\Nabheti Nabheti_segments.csv,songdata\Shiva Pariyar\output\Nabheti Nabheti,Male,Medium
+94,Shiva Pariyar,Pilayo Sathile,Adhunik,Sad,songdata\Shiva Pariyar\output\Pilayo Sathile\Pilayo Sathile_segments.csv,songdata\Shiva Pariyar\output\Pilayo Sathile,Male,Low
+95,Sugam Pokharel,Dashain Tihar,Folk,Happy,songdata\Sugam Pokharel\output\Dashain Tihar\Dashain Tihar_segments.csv,songdata\Sugam Pokharel\output\Dashain Tihar,Male,High
+96,Sugam Pokharel,Kasham Ho Kasham,Pop,Romantic,songdata\Sugam Pokharel\output\Kasham Ho Kasham\Kasham Ho Kasham_segments.csv,songdata\Sugam Pokharel\output\Kasham Ho Kasham,Male,Medium
+97,Sugam Pokharel,Pheri Tyo Din,Pop,Reflective,songdata\Sugam Pokharel\output\Pheri Tyo Din\Pheri Tyo Din_segments.csv,songdata\Sugam Pokharel\output\Pheri Tyo Din,Male,Medium
+98,Sugam Pokharel,Runna Bhanthe,Pop,Sad,songdata\Sugam Pokharel\output\Runna Bhanthe\Runna Bhanthe_segments.csv,songdata\Sugam Pokharel\output\Runna Bhanthe,Male,Low
+99,Sugam Pokharel,Timi Royeko Pal,Pop,Sad,songdata\Sugam Pokharel\output\Timi Royeko Pal\Timi Royeko Pal_segments.csv,songdata\Sugam Pokharel\output\Timi Royeko Pal,Male,Low
+100,Sukmit Gurung,Chumera Sugandhi Phool,Adhunik,Romantic,songdata\Sukmit Gurung\output\Chumera Sugandhi Phool\Chumera Sugandhi Phool_segments.csv,songdata\Sukmit Gurung\output\Chumera Sugandhi Phool,Female,Medium
+101,Swoopna Suman,Je Chhau Timi,Pop,Romantic,songdata\Swoopna Suman\output\Je Chhau Timi\Je Chhau Timi_segments.csv,songdata\Swoopna Suman\output\Je Chhau Timi,Male,Medium
+102,Swoopna Suman,Kasari Bhanu,Pop,Sad,songdata\Swoopna Suman\output\Kasari Bhanu\Kasari Bhanu_segments.csv,songdata\Swoopna Suman\output\Kasari Bhanu,Male,Low
+103,Swoopna Suman,Timro Aankha,Pop,Romantic,songdata\Swoopna Suman\output\Timro Aankha\Timro Aankha_segments.csv,songdata\Swoopna Suman\output\Timro Aankha,Male,Medium
+104,Yogeshwor Amatya,Bhanchhan Lognemanchhe,Pop,Reflective,songdata\Yogeshwor Amatya\output\Bhanchhan Lognemanchhe\Bhanchhan Lognemanchhe_segments.csv,songdata\Yogeshwor Amatya\output\Bhanchhan Lognemanchhe,Male,Medium
+105,Yogeshwor Amatya,Jaba Sandhya Hunchha,Adhunik,Reflective,songdata\Yogeshwor Amatya\output\Jaba Sandhya Hunchha\Jaba Sandhya Hunchha_segments.csv,songdata\Yogeshwor Amatya\output\Jaba Sandhya Hunchha,Male,Low
